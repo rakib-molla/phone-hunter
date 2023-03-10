@@ -1,0 +1,16 @@
+1. fetch data 
+2. show all phone 
+3. add search button 
+4. add condition to show display no phone found 
+5. add search loader
+6. add show more button 
+7. add modal 
+8. show modal with details of the items 
+
+==
+
+common type error 
+
+1. fetch run on browser 
+2. dom run on browser if you run in cmd node then get error document not define 
+3.
